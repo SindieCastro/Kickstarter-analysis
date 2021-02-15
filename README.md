@@ -32,3 +32,5 @@
 
 8. The mean campaign goal to kickstar a musical in Great Britain is around £4,000. This is outside of the range of outliers for the amount pledged. Also, half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
 
+
+
