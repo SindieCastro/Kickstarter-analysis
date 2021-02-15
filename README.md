@@ -36,7 +36,7 @@
 
 - Launch a new Kickstarter campaign between January and May.
 
-- Select lower fundraising goals to have more successful Kickstarter campaigns.
+- Probably choose lower fundraising goals to have more successful Kickstarter campaigns.
 
 - Utilize the Foresight campaign as a Kickstarter to replicate. 
 
