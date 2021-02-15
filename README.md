@@ -9,7 +9,7 @@
 
 3. The month that launched the most successful Kickstarter campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launched.
 
-![Outcomes_based_on_Launch_Date](path/to/Outcomes_Based_on_Launch_Date.png)
+https://user-images.githubusercontent.com/78306719/107996104-31292880-6fa5-11eb-8676-bf381b3acfae.png
 
 4. The Foresight campaign was successful. It reached 100% of its goal -- it even went over by four dollars! The average donation is surprisingly high, considering there are only 17 backers. Scrolling further, we can also see that the campaign wasn't active for very long---just under a month.
 
