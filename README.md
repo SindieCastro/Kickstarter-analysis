@@ -3,7 +3,7 @@
 
 ### **Findings**
 
-1. Filtering for only the United States campaigns, we found that there were 525 successful theater Kickstarters.
+1. Looking only at the United States campaigns, we found that there were 525 successful theater Kickstarters.
 
 ![Parent Category Outcomes](https://user-images.githubusercontent.com/78306719/107996551-45b9f080-6fa6-11eb-93e0-0509e9b3b087.png)
 
@@ -16,7 +16,7 @@
 ![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/78306719/107996547-43f02d00-6fa6-11eb-961e-35b33ca3926f.png)
 
 
-4. The Foresight campaign was successful. It reached 100% of its goal -- it even went over by four dollars! The average donation is surprisingly high, considering there are only 17 backers. Scrolling further, we can also see that the campaign wasn't active for very long---just under a month.
+4. The Foresight campaign was successful. It reached 100% of its goal -- it even went over by four dollars! The average donation is surprisingly high, considering there are only 17 backers. The campaign wasn't active for very long---just under a month.
 
 5. Failed Kickstarter campaigns have much higher fundraising goals than successful Kickstarter campaigns. 
 
@@ -32,5 +32,14 @@
 
 8. The mean campaign goal to kickstar a musical in Great Britain is around £4,000. This is outside of the range of outliers for the amount pledged. Also, half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
 
+### Recommendations
+
+- Launch a new Kickstarter campaign between January and May.
+
+- Select lower fundraising goals to have more successful Kickstarter campaigns.
+
+- Utilize the Foresight campaign as a Kickstarter to replicate. 
+
+- Try to get the musical in Great Britain produced for less than £4,000.
 
 
