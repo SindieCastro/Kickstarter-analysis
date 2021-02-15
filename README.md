@@ -3,13 +3,18 @@
 
 ### **Findings**
 
-1. Filtering for only the United States campaigns, found that there were 525 successful theater Kickstarters.
+1. Filtering for only the United States campaigns, we found that there were 525 successful theater Kickstarters.
+
+![Parent Category Outcomes](https://user-images.githubusercontent.com/78306719/107996551-45b9f080-6fa6-11eb-93e0-0509e9b3b087.png)
 
 2. We have found that while there are only a total of 604 Kickstarter campaigns for plays in Great Britain, the "theater" category is the most successful.
 
+![Subcategory Statistics](https://user-images.githubusercontent.com/78306719/107996557-481c4a80-6fa6-11eb-8168-4b701f29f4c9.png)
+
 3. The month that launched the most successful Kickstarter campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launched.
 
-https://user-images.githubusercontent.com/78306719/107996104-31292880-6fa5-11eb-8676-bf381b3acfae.png
+![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/78306719/107996547-43f02d00-6fa6-11eb-961e-35b33ca3926f.png)
+
 
 4. The Foresight campaign was successful. It reached 100% of its goal -- it even went over by four dollars! The average donation is surprisingly high, considering there are only 17 backers. Scrolling further, we can also see that the campaign wasn't active for very long---just under a month.
 
