@@ -3,24 +3,24 @@
 
 ### **Findings**
 
-1. Looking only at the United States campaigns, we found that there were 525 successful theater Kickstarters.
+1. There were 525 successful theater Kickstarter campaigns in the United States. _See Parent Category Outcomes._
 
 ![Parent Category Outcomes](https://user-images.githubusercontent.com/78306719/107996551-45b9f080-6fa6-11eb-93e0-0509e9b3b087.png)
 
-2. We have found that while there are only a total of 604 Kickstarter campaigns for plays in Great Britain, the "theater" category is the most successful.
+2. Great Britain only had 604 Kickstarter campaigns for plays but the "theater" category was the most successful. _See Subcategory Statistics._
 
 ![Subcategory Statistics](https://user-images.githubusercontent.com/78306719/107996557-481c4a80-6fa6-11eb-8168-4b701f29f4c9.png)
 
-3. The month that launched the most successful Kickstarter campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launched.
+3. The month that launched the most successful Kickstarter campaigns was May; However, January, June, July and October all had roughly the same number of failed campaigns launched. _See Outcomes Based on Launch Date._
 
 ![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/78306719/107996547-43f02d00-6fa6-11eb-961e-35b33ca3926f.png)
 
 
-4. The Foresight campaign was successful. It reached 100% of its goal -- it even went over by four dollars! The average donation is surprisingly high, considering there are only 17 backers. The campaign wasn't active for very long---just under a month.
+4. The Foresight campaign was successful. It reached 100% of its goal. The average donation was surprisingly high, considering there are only 17 backers. The campaign was  active for just under a month.
 
 5. Failed Kickstarter campaigns have much higher fundraising goals than successful Kickstarter campaigns. 
 
-6. In addition, the mean and median pledged amounts are much lower than the successful pledges, which indicates that failed Kickstarter campaigns are unsuccessful for reasons other than asking for too much money. In other words, if the failed projects were also getting a median pledge amount of around $3,000, it's possible that those that failed just asked for too high of a price. Since the median is much lower, there must be another factor keeping people from pledging to those unsuccessful projects. 
+6. The mean and median pledged amounts were much lower than the successful pledges; therefore, failed Kickstarter campaigns could be unsuccessful for other reasons than asking for too much money. In other words, if the failed projects were also getting a median pledge amount of around $3,000, it's possible that those that failed just asked for too high of a price. Since the median is much lower, there must be another factor keeping people from pledging to those unsuccessful projects. 
 
 7. Based on these statistics, we can determine the following:
 
@@ -41,5 +41,7 @@
 - Utilize the Foresight campaign as a Kickstarter to replicate. 
 
 - Try to get the musical in Great Britain produced for less than £4,000.
+
+- Further research other reasons Kickstarter campaigns failed.
 
 
