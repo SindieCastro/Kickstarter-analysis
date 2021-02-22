@@ -4,7 +4,7 @@
 
 ### Background
 
-The client asked this data analyst to provide insight into kickstarting a fundraising campaign. Her goal is to fund a play she wrote called *Fever*. The client’s estimated raising amount is over $10,000 to cover sets, costumes, props, makeup, lighting, rehearsal space, advertising, programs, and actors.
+The client askeded for insight into kickstarting a fundraising campaign. Her goal is to fund a play she wrote called *Fever*. The client’s estimated raising amount is over $10,000 to cover sets, costumes, props, makeup, lighting, rehearsal space, advertising, programs, and actors.
 
 ### Purpose
 
@@ -35,9 +35,7 @@ Concluding the analysis, a title and legend were included in the line graph. The
 A few challenges and difficulties occurred during the analysis. The filters and rules in the Kickstarter data generated blank cells after calculating the year. This issue first appeared in the pivot table and was fixed in the Kickstarter data by following instructions researched using Google. Although the issue was fixed, ways to update the data in the pivot table caused difficulties and the only solution was to re-start a new sheet. Although it seemed like a challenge at the time, the repetition helped with memorization of the process.
  
 
-Using the formula COUNTSIFS was also difficult. At times, there were missing commas or quotations. A fellow classmate helped identify the issues. Cutting and pasting the first formula into the remaining cells helped with the rest of the formulas; however, there is an easier method: use $ to lock the formula on a cell. 
-
-** Yes, the highlighted section above is correct. You can use the $ to lock the cell location. For example, $D$4 would lock the formula on cell D4 so that copying and pasting the formula to a new cell would always return the value in D4. You can also lock on the different indices. You could lock on the column with $D4, and you could lock on row 4 with D$4.
+Using the formula **COUNTSIFS** was also difficult. At times, there were missing commas or quotations. A fellow classmate helped identify the issues. Cutting and pasting the first formula into the remaining cells helped with the rest of the formulas; however, there is an easier method: use $ to lock the formula on a cell. 
 
 The last difficulty was matching the line graph to the example provided in the deliverable. The identification of the unidentical points in the graph revealed the need to re-arrange the rows in the pivot table. Once this step was done, the line graphs matched. 
 
