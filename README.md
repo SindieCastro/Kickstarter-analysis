@@ -4,7 +4,7 @@
 
 ### Background
 
-The client askeded for insight into kickstarting a fundraising campaign. Her goal is to fund a play she wrote called *Fever*. The client’s estimated raising amount is over $10,000 to cover sets, costumes, props, makeup, lighting, rehearsal space, advertising, programs, and actors.
+The client asked for insight into kickstarting a fundraising campaign. Her goal is to fund a play she wrote called *Fever*. The client’s estimated raising amount is over $10,000 to cover sets, costumes, props, makeup, lighting, rehearsal space, advertising, programs, and actors.
 
 ### Purpose
 
